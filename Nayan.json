@@ -1,5 +1,5 @@
 {
-  "author": "Farabi",
+  "author": "Nayan",
   "version": "1.5.7",
   "autoRestart": true,
   "developermode": false,
@@ -14,7 +14,7 @@
   "ADMINBOT": [
     "100064784649826"
   ],
-  "OWNER": ["100064784649826"], 
+  "OWNER": ["100000959749712"], 
   "APPROVED": [],
   "disabledcmds": [
   ],
